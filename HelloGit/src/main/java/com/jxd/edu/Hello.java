@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("Hello Git!!!");
         System.out.println("更新一");
         System.out.println("创建分支dev");
+        System.out.println("dev分支添加");
     }
 }
